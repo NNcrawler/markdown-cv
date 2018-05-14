@@ -1,91 +1,61 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: M Rasyid Hakim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# M Rasyid Hakim
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="">rasyid.xyz@gmail.com</a> |
+<a href="https://id.linkedin.com/in/rasyid-hakim-139258130">LinkedIn: goo.gl/uDQAxR</a> |
+<a>+6285314060295</a>
 </div>
 
+### About Me
+Interested in software engineering and product development. Super excited to work and learn as much as I can around these two fields. Self learner and also interested in creating alternative education system.
 
-## Currently
+## Functional Expertise
 
-Standing on the shoulders of giants
+`Node.JS`
+- __Express, Mongoose, Sequelize, Socket.io__
 
-### Specialized in
+`JavaScript(Front End)`
+- __React, Vue, Redux, React Native__
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Database`
+- __PostgreSQL, MongoDb__ 
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+`Familiar With`
+- __Linux__
+- __Git__
+- __Object Oriented Programming__
+- __Test Driven Development__
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-now`
+__Telkom University__
+- Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010-2013`
+__SMAN 11 Bandung__
 
-- Sizar
+`2007-2010`
+__SMPN 34 Bandung__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2001-2007`
+__SDT Krida Nusantara__
 
-- Fellow
+## Techincal Experience
 
+__Internship At Gigapro Media__
+- Working on shipment feature and some bug fixing for filateli.co.id. Also worked on travel planner website as group assignement.
 
+__Indonesia Android Kejar__
+- Program by Google to learn Android, joined as participant.
 
-## Awards
+__Hacktiv8 Javascript Bootcamp__
+- Learned web development using Javascript stack. Joined as part of Go-Scholar tech program.
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+__Go-Academy Bootcamp__
+- Learned some topic in Go-jek internal bootcamp. Topic that was covered included Core Engineering, Devops, Android, Design, Data Science. 
 
